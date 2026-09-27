@@ -1,0 +1,17 @@
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+tqdm
+opencv-python
+transformers
+fastapi
+uvicorn[standard]
+python-multipart
+# Phase 5+ — install separately, needs GDAL system libs
+# rasterio
+# GDAL

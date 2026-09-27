@@ -1,0 +1,12 @@
+# Dataset
+
+The project uses the Rice Leaf Disease dataset.
+
+Dataset source:
+
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+The dataset is not included in this repository because of its size.
+
+Download the dataset separately and place the extracted training
+images in the appropriate data directory.
